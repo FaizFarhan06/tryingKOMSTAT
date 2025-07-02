@@ -403,3 +403,5 @@ shinyApp(ui, server)
 
 
         tessss
+hidup blonde
+        
